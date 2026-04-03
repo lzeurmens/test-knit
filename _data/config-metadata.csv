@@ -1,13 +1,14 @@
 field,display_name,browse_link,external_link
-title,Title,
+title,Title,,,
+description,Description
 color,Color,
 yarnweight,Yarn Weight,
 fibercontent,Fiber Content,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
+subject,Techniques,true
+yardage,Yardage
+needlesize,Needle Size
+pattern,Pattern
+difficulty,Difficulty
 identifier,Source Identifier,,
 type,Type,
 format,Format,
