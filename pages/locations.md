@@ -8,7 +8,7 @@ permalink: /type.html
 cloud-fields: site.data.theme.locations-fields
 ---
 
-## Browse Locations
+## Browse TYpe
 
-Use this word cloud visualization to browse locations.
+Use this word cloud visualization to browse types of items made.
 Word size is determined by frequency and all words link to a corresponding collection search.
