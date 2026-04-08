@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: bluetophanging.JPG
+featured-image: /objects/bluetophanging.JPG
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
@@ -71,7 +71,7 @@ metadata-facets-fields: "techniques,color,yarnweight"
 # select true below if you'd like your compound object's child objects to appear in any of the pages or features listed
 map-child-objects: false # true / false - if true, and if child item has latitude and longitude, child objects will be displayed on map
 timeline-child-objects: false # true / false - if true, and if child object has date, child objects will appear as thumbnails on timeline page
-data-child-objects: true # true / false - if true, child objects will appear linked in table on data page
+data-child-objects: false # true / false - if true, child objects will appear linked in table on data page
 carousel-child-objects: true # true / false - if true, child objects will appear on homepage carousel
 browse-child-objects: false # true / false - if true, child objects will appear on browse page and child objects' metadata will populate cloud pages like Subjects page and Locations page, as well as featured terms boxes on the home page
 search-child-objects: true # true / false - if true, child objects will appear on on search page along with parent objects
@@ -91,7 +91,7 @@ navbar-background: bg-dark
 # BOOTSWATCH THEMES
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
 # Enter one of the following options below: cerulean; cosmo; cyborg; darkly; flatly; journal; litera; lumen; lux; materia; minty; pulse; sandstone; simplex; sketchy; slate; solar; spacelab; superhero; united; yeti 
-bootswatch: cerulean
+bootswatch: sketchy
 
 # THEME FONTS
 base-font-size: 1.2em
