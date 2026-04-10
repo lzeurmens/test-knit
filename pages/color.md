@@ -1,6 +1,11 @@
 ---
 title: Color
 layout: cloud
-permalink: /color.html
-cloud-fields: site.data.theme.colors-fields
+permalink: /colors.html
+cloud-fields: color
+cloud-min: 1
+cloud-stopwords:
 ---
+
+## Browse Colors
+
