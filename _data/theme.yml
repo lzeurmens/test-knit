@@ -66,9 +66,9 @@ year-nav-increment: 5 # set increments when auto gen nav years
 #
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "title,description,type,color,yarnweight,yardage,needlesize,subject,pattern,difficulty,rights"
+metadata-export-fields: "title,description,type,yarncolor,yarnweight,yardage,needlesize,subject,pattern,difficulty,rights"
 # generate a facets list for given fields, comma delimited
-metadata-facets-fields: "techniques,color,yarnweight"
+metadata-facets-fields: "techniques,yarncolor,yarnweight"
 
 ##########
 # COMPOUND OBJECTS
