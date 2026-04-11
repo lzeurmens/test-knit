@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link
 title,Title,,
 description,Description
-color,Color,
+yarncolor,Color,
 yarnweight,Yarn Weight,
 fibercontent,Fiber Content,
 subject,Techniques,true
