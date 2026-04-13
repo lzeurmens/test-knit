@@ -37,7 +37,7 @@ colors-stopwords: set of subjects separated by ;
 ##########
 # YARN WEIGHT PAGE
 #
-subjects-fields: yarnweight # set the field to be featured in the cloud (if left blank, none will be generated)
+yarnweights-fields: yarnweight # set the field to be featured in the cloud (if left blank, none will be generated)
 subjects-min: 1 # min size for subject cloud, too many terms = slow load time!
 subjects-stopwords: set of subjects separated by ; # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
