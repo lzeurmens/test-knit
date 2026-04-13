@@ -1,8 +1,8 @@
 field,display_name,browse_link,external_link
 title,Title,,
 description,Description
-color,Color,
-yarnweight,Yarn Weight,
+color,Color,true
+yarnweight,Yarn Weight,true
 fibercontent,Fiber Content,
 subject,Techniques,true
 yardage,Yardage
@@ -10,7 +10,7 @@ needlesize,Needle Size
 pattern,Pattern
 difficulty,Difficulty
 identifier,Source Identifier,,
-type,Type,
+type,Type,true
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
