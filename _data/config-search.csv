@@ -7,3 +7,4 @@ subject,true,true
 location,true,false
 color,true,true
 yarnweight,true,true
+fibercontent,true,true
