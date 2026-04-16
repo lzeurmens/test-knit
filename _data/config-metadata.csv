@@ -7,7 +7,7 @@ fibercontent,Fiber Content,
 subject,Techniques,true
 yardage,Yardage
 needlesize,Needle Size
-pattern,Pattern
+pattern,Pattern,,true
 difficulty,Difficulty
 identifier,Source Identifier,,
 type,Type,true
