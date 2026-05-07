@@ -14,12 +14,5 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+This site was generated using CollectionBuilder as an assignment to learn about metadata for Information Organization. If you have any questions about anything on this site, please reach out! I am happy to talk about what I have learned both through this project and through the items I have knitted. Actually, I'm probably happy just to talk in general. I like people. 
 
