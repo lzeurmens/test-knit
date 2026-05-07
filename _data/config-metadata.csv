@@ -3,9 +3,9 @@ title,Title,,
 description,Description
 color,Color,true
 yarnweight,Yarn Weight,true
-fibercontent,Fiber Content,
+fibercontent,Fiber Content,true
 subject,Techniques,true
-yardage,Yardage
+yardage,Yardage,true
 needlesize,Needle Size
 pattern,Pattern,,true
 difficulty,Difficulty
