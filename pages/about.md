@@ -14,5 +14,5 @@ credits: true
 
 ## About the Collection
 
-This site was generated using CollectionBuilder as an assignment to learn about metadata for Information Organization. If you have any questions about anything on this site, please reach out! I am happy to talk about what I have learned both through this project and through the items I have knitted. Actually, I'm probably happy just to talk in general. I like people. 
+This site was generated using CollectionBuilder as an assignment to learn about metadata for Information Organization. Each item is hand made by me and each record has tons of details for you to peruse. The intended purpose of this collection is to introduce beginning knitting terms and ideas for learners in my classes. If you have any questions about anything on this site, please reach out! I am happy to talk about what I have learned both through this project and through the items I have knitted. Actually, I'm probably happy just to talk in general. I like people. 
 
